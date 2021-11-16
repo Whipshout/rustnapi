@@ -1,0 +1,5 @@
+.github
+.idea
+target
+node_modules
+test-hash-napi.win32-x64-msvc.node

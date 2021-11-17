@@ -21,7 +21,7 @@
 
 ## NAPI crate
 
-- **NAPI** => https://neon-bindings.com/ <br>
+- **NAPI** => https://napi.rs/ <br>
 
 
 - **NAPI Crate** => https://crates.io/crates/napi/1.1.2 <br>
